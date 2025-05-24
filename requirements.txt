@@ -1,6 +1,9 @@
+streamlit
 langchain
-faiss-cpu
 openai
 tiktoken
+faiss-cpu
 sentence-transformers
+spacy
 python-dotenv
+
